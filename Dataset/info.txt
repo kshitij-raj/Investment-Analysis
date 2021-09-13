@@ -1,0 +1,23 @@
+companies.csv - Company details
+
+<Attribute>           <Description>
+Permalink             Unique ID of company
+name                  Company name
+homepage_url          Website URL
+category_list         Category/categories to which a company belongs
+status                Operational status
+country_code          Country Code 
+state_code            State
+
+
+rounds2.csv - Funding Round details
+
+<Attribute>                 <Description>
+company_permalink           Unique ID of company
+funding_round_permalink     Unique ID of funding round
+funding_round_type          Type of funding – venture, angel, private equity etc.
+funding_round_code          Round of venture funding (round A, B etc.)
+funded_at                   Date of funding
+raised_amount_usd           Money raised in funding (USD)
+
+mapping.csv  -  This file maps the numerous category names in the companies table (such 3D printing, aerospace, agriculture, etc.) to eight broad sector names. 
