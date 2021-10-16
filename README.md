@@ -2,7 +2,7 @@
 # Investment Analysis
 
 ### Business Problem Overview
-Spark Funds, an asset management company wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
+Spark Funds, an asset management company wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that company can take the investment decisions effectively.
 
 ### Business Goals
 Spark Funds wants to invest where most other investors are investing.
